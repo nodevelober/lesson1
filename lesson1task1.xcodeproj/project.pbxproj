@@ -12,6 +12,7 @@
 		E0010B1F22E7ACC80029ADA5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0010B1D22E7ACC80029ADA5 /* Main.storyboard */; };
 		E0010B2122E7ACCD0029ADA5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E0010B2022E7ACCD0029ADA5 /* Assets.xcassets */; };
 		E0010B2422E7ACCD0029ADA5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0010B2222E7ACCD0029ADA5 /* LaunchScreen.storyboard */; };
+		E0010B2C22E7B9390029ADA5 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0010B2B22E7B9390029ADA5 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E0010B2022E7ACCD0029ADA5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E0010B2322E7ACCD0029ADA5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E0010B2522E7ACCD0029ADA5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E0010B2B22E7B9390029ADA5 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				E0010B1922E7ACC80029ADA5 /* AppDelegate.swift */,
 				E0010B1B22E7ACC80029ADA5 /* ViewController.swift */,
 				E0010B1D22E7ACC80029ADA5 /* Main.storyboard */,
+				E0010B2B22E7B9390029ADA5 /* SecondViewController.swift */,
 				E0010B2022E7ACCD0029ADA5 /* Assets.xcassets */,
 				E0010B2222E7ACCD0029ADA5 /* LaunchScreen.storyboard */,
 				E0010B2522E7ACCD0029ADA5 /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E0010B2C22E7B9390029ADA5 /* SecondViewController.swift in Sources */,
 				E0010B1C22E7ACC80029ADA5 /* ViewController.swift in Sources */,
 				E0010B1A22E7ACC80029ADA5 /* AppDelegate.swift in Sources */,
 			);
